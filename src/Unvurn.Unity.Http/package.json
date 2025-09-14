@@ -1,0 +1,13 @@
+{
+  "name": "cc.unvurn.unvurn-unity-http",
+  "displayName": "Unvurn.Unity.Http",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "unvurn C#-Unity http-related class library",
+  "author": {
+    "name": "unvurn"
+  },
+  "dependencies": {
+    "cc.unvurn.unvurn-unity-core": "0.1.0"
+  }
+}

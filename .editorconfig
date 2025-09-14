@@ -1,0 +1,5 @@
+[*.cs]
+resharper_use_index_from_end_expression_highlighting = none
+
+resharper_configure_await_analysis_mode = library
+resharper_use_configure_await_false_highlighting = error

@@ -1,0 +1,19 @@
+{
+    "name": "Unvurn.Unity.Http",
+    "rootNamespace": "Unvurn.Unity.Http",
+    "references": [
+        "Unvurn.Unity.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unvurn.Core.dll",
+        "Unvurn.Network.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
